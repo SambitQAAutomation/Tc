@@ -1,0 +1,33 @@
+11-12-2024
+---------------
+830
+BRP-71 P
+BRP-75 Fail Date and Poste Game text
+BRP-80 P
+
+12-12-2024
+-----------
+BRP-83 Pass
+BRP-85 Pass
+BRP-74 Pass
+BRP-95 Fail
+
+13-12-2024
+------------
+BRP-92 Fail
+BRP-62 Pass
+BRP-105 pASS
+
+16-12-2024
+---------------
+BRP-80 P
+BRP-84 P
+BRP-106 P
+
+19-12-2024
+=============
+BLUE-610
+
+813- Under QA
+831- under Qa Need to Ask Mayank
+610- Staging Checked 

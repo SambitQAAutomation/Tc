@@ -1,0 +1,123 @@
+Day 1
+-------
+What is automation and Advantage
+Introduce of Selenium
+Architecture of Selenium WD
+
+Day 2-3
+-------
+Methods of Search Context
+Methods of WebDriver
+
+Day 4-5
+--------
+Methods of JS Executer
+Methods of TakeSC
+Methods of WebElement 
+HTML Basic
+Login Practice--https://practicetestautomation.com/practice/
+
+Day 10
+----------
+cssSelector()
+Xpath 
+Types of Xpath
+Absolute Xpath
+
+Day 12-13-14
+---------------
+Relative Xpath
+Types of Relative Xpath and Explain All with Syntax
+
+Day 15
+------
+findElements()
+diff bttn findElements() and findElement()
+implicit wait()
+
+Day 16
+------
+Explicit wait()
+diff bettn implicit wait() and Explicit wait()
+
+Day 17
+--------
+Handling ListBox
+
+Day 18-19
+-------
+Handling popup
+
+Day 20
+-------
+Handling Windows                          
+Summary of the PopUps
+
+Day 21
+----------
+Handling tabs
+
+Day 22
+---------
+Handling Mouse Actions
+
+Day 23
+---------
+Handlings Frames
+Handling Disable elements and Scroll bar
+
+Day 24
+---------
+Data driven testing
+Handling property files
+Handling data driven from Excel file
+Advantages of Data driven testing:
+
+Day 25
+--------
+Unit Testing Framework Tool
+Advantages or additional features of testNG
+
+Day 26
+--------
+Assertion
+Listeners
+
+Day 27
+-------
+Group Execution
+What is the difference between BeforeTest and BeforeMethod ?
+
+Day 28
+--------
+Encapsulation to selenium
+StaleElementReferenceException,
+
+Day 29
+----------
+PAGE OBJECT MODEL:
+
+Day 30-31-32
+-----------------
+Framework explain
+Project Work
+
+Day 33
+----------
+Architecture of Hybrid Framework
+Project Work
+ 
+Day 34-35
+-------------
+Git 
+CI/CD
+Git hub
+
+Day 36
+--------
+Xpath with starts-with function
+
+Day 37
+---------
+Exceptions types
+

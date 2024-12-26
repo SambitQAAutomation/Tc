@@ -1,0 +1,234 @@
+                                                         Part 1
+ Day 1                                                      
+-------
+Install Eclipse
+Print Hello World
+What is Programming language and Type
+
+Day 2
+-------
+What is java
+Advantages of java
+Platform dependent
+Platform independent
+
+Day 3
+--------
+How Java Is Platform independent
+Step to Create a program and Execute a program and Basic Structure of Program
+
+Day 2
+---------
+Identifier
+Data Type
+Assignment
+
+Day 3
+-------
+Variable
+Operator
+Assignment
+
+Day 4
+------
+Typecasting
+modulus Operator
+Relational Operator
+Conditional Operator
+Assignment
+
+Day 5
+------
+Increment Operator
+Decrement Operator
+Assignment
+Day 6
+------
+Logical Operator
+Assignment Operator
+Assignment
+
+Day 7
+--------
+Flow control statements diagram 
+decision making statements
+if()----->Working Flow
+if else--->Working Flow
+Assignment
+
+Day 8
+-------
+else if()-------->Working Flow
+switch()-------->Working Flow
+break;--------->Working Flow
+Assignment
+
+Day 9
+------
+Loop
+While Loop----->Working Flow
+do while Loop---->Working Flow
+Assignment
+
+Day 10
+--------
+for Loop----->Working Flow
+nested for Loop------>Working Flow
+for each Loop---->Working Flow
+Assignment
+
+Day 11
+--------
+Methods
+Types of Methods
+
+Day 12
+-------
+What is return;
+What is Return Type
+What is void
+method Overloading and rules 
+Different Between While and do while
+Different Between else if and switch
+
+                                             Part 2
+Day 13
+-------
+Fundamental of oops 
+Class
+Object
+
+Day 14
+-------
+Understanding static 
+static method
+static variable
+
+Day 15
+--------
+static initializer
+Loading Process Of Class
+
+Day 16
+-------
+Understanding non static
+non static method
+
+Day 17
+--------
+what is new
+non static variable 
+
+Day 18
+-------
+non static initializer
+
+Day 19
+--------------
+Constructor 
+Loading Process of Object
+
+Day 20
+-------------
+Encapsulation
+Private
+getter
+setter
+
+Day 21-22
+-------
+inheritance
+constructor Chaining
+this call and rules
+super call and rules
+types of inheritance
+
+Day 23
+----------
+Non primitive type casting
+Upcasting
+Down casting
+
+Day 24
+--------
+Modifier
+Polymorphism 
+CT Polymorphism
+Method overloading
+constructor overloading
+Shadowing
+
+Day 25
+--------
+RT Polymorphism
+Method Overriding
+super
+final
+
+Day 26
+-------
+Abstraction
+
+Day 27
+--------
+Interface 
+
+Day 28
+-------
+Array
+
+Day 29
+--------
+Shorting
+Bubble Short 
+
+Day 30
+--------
+Object Class
+ToString();
+equal();
+hashcode();
+
+Day 31
+-------
+String
+Buffer
+Builder
+toChatArray();
+charAt();
+length();
+
+Day 32
+-------
+Exception
+try
+catch
+finally
+Custom Exception
+
+Day 33
+---------
+file handling 
+FI/Ps
+FO/Ps
+                              Part 3
+
+Day 34
+--------
+Collection
+Array List
+Iterator
+
+Day 35
+--------
+for each Loop
+Set
+Hash Set
+Tree Set
+
+Day 36
+-------
+Map
+Hash Map
+Tree Map
+Hash Table
