@@ -31,3 +31,21 @@ BLUE-610
 813- Under QA
 831- under Qa Need to Ask Mayank
 610- Staging Checked 
+
+
+Today's Work Update (26/12/2024)
+Worked on Under QA Jira Tickets BLUE-954,BRP-42,
+Under Process(BRP-191,BRP-195,BRP-198,BRP-201,)
+Attend Call (12:30-12-50)
+
+Today's Work Update (30/12/2024)
+Worked on Under QA Jira Tickets BRP-188 P,BRP-191 P,BRP-195 F,BRP-129 P,BRP-198 F,BRP-201 F,BRP-185 P,BRP-177 P,BRP-182,BRP-180 P, BRP-171,
+App Tested In preprod 
+Under Process(BRP-165,BRP-162,BRP-159,)
+Attend Call (01:00 PM-01:20)
+Attend Call (06:30 PM-06:55)
+
+Today's Work Update (31/12/2024)
+Worked on Under QA Jira Tickets BRP-165,BRP-162,BRP-122,BRP-154,BRP-153,BRP-150,BRP-122,BRP-145,BRP-144,BRP-131,BRP-159,BRP-130,BRP-128
+Attend call (12:30 PM - 12:45 PM)
+Attend Call (05:30 PM-06:00)
