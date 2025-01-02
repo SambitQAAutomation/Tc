@@ -1,0 +1,215 @@
+Day 1
+--------
+01 SDLC
+02.TYPES OF SDLC
+03.WATREFALL MODEL
+
+Day 2
+--------
+2. SPIRAL MODEL
+3. VERIFICATION &VALIDATION MODELS
+4. PROTOTYPE MODEL / DUMMY MODEL
+5. HYBRID MODEL
+6. AGILE MODEL
+7. SOFTWARE TESTING
+
+Day 3
+--------
+What are the types of testing?
+White box testing
+   Tytpes
+what is the difference between WBT and BBT
+
+Day 4
+--------
+Black box testing
+Functionality testing/component testing/field testing
+INTEGRATION TESTING
+Types of integration testing
+
+Day 5
+-------
+SYSTEM TESTING
+End to end testing
+why we find new defects in old module?
+When should we do system testing?
+Re-spin
+Build
+Patch
+
+Day 6
+-------
+ACCEPTANCE TESTING / RED BOX TESTING
+Why we do acceptance testing
+what is the difference between service and product-based company?
+Types of acceptance testing
+
+Day 7
+-------
+USABILTY TESTING / YELLOW BOX / GUI / CONSMETIC TESTING
+How to do usability testing?
+For what kind of applications do we do usability testing?
+When we do usability testing?
+Assignment-----01.ola and Zomato, phonepe and Paytm
+
+Day 8
+-------
+PERFORMANCE TESTING / BASE LINE / SPIKE LINE / BOTTLE NECK TESTING
+Types of PERFORMANCE TESTING
+When should we do performance testing?
+
+Day 9
+-------
+DEFECT TRACKING
+DEFECT TRACKING PROCESS
+DEFECT LIFE CYCLE / BUG LIFE CYCLE
+DLC consists of below mentioned status
+ISTQB question----->What is the difference b/w NEW and OPEN status?, What is reject status?,What is Duplicate status?,Why we get duplicate status?
+Why we should not wait for permission from Tl to send the defect to DL?
+Why TE should CC every report to TL?
+As soon as you find the defect immediately you should send to developers team, why?
+
+Day 10
+-----------
+SEVERITY
+4 levels of severity
+Give severity for ATM machine (Interview Question)
+PRIORITY
+3 levels of priority
+Assignment; identify 20 defects(assume) and give severity and priority
+
+
+Day 11
+--------
+1. Defect Triage
+2. Defect seeding
+3. Defect masking
+4.Defect pesticide/pesticide paradox
+5.Defect clustering
+6. Defect cascading
+7.defect leakage /defect release
+8.Latent defect
+
+Day 12
+--------
+SMOKE TESTING
+ALTERNATE NAMES
+Advantages of smoke testing
+How to do smoke testing
+Smoke Scenario
+Q. What is the difference between smoke and sanity testing? (*****vvvvvimp***********)
+
+Day 13
+---------
+ADHOC TESTING / OUT OF BOX / NEGATIVE TESTING / MONKEY
+TESTING / GORILLA TESTING
+When we do adhoc testing?
+Why we do adhoc testing?
+How to do adhoc testing?
+
+Day 14
+------------
+COMPATABILITY / CONFIGURATION / PORTABILITY TESTING:
+Why we do compatibility testing?
+When to do compatibility testing?
+How to do CT testing? for 3 Application
+Q. What is forward and backward compatibility testing?
+Q. What is the difference b/w native mobile app, web mobile app and hybrid mobile app?
+Q. When time is very less how will you do testing? (**********************************)
+Yellow box testing
+
+Day 15
+----------
+ACCESSIBILITY TESTING / ADA (American Disabilities Act) / 508 testing
+REALIBITY TESTING:
+
+
+Day 16
+----------
+TEST CASE (************************vipm************************)
+What will happen if you see the requirements test the software? Or what are the drawbacks
+of not writing test case?
+ISTQB QUESTION Discuss
+When do we write test cases?
+Test case Templet (Format)
+
+Day 17-18
+-------------
+TEST CASE DESIGN TECHNIQUES / TESTING TECHNIQUES / DESIGN
+TECHNIQUE / BLACK BOX TESTING TECHNIQUES (***VVVVIMP**)
+Drawbacks of not applying design technique
+Types of test case design techniques
+How to write TC With Template 
+
+Day 19
+--------
+TEST CASE REVIEW PROCESS / PEER REVIEW PROCESS
+Q How do you ensure that reviewer will do his job?
+TC Review ethics
+What will you do while reviewing test case? Or why we review test case? (**********)
+Procedure to write test case;
+
+Day 20
+--=------
+TRACEABILITY MATRIX / REQUIREMNT TRACIABILITY MATRIX
+(RTM) / CROSS REFRENCE MATRIX (CRM) (**********************)
+What is the difference between traceability matrix and test case review?
+Q. If there is no requirement then how will you prepare traceability matrix?
+Q. Assume that last day when you are about to release the product to the customer, if there
+is a critical / blocker defect what will you do? Will you release product to the customer or
+not?
+Q.How do you ensure that your test coverage is good? Or How do you convince you customer
+/ management/developer that you have tested everything? (**************************)
+What is the difference between functional and non-functional requirement?
+
+Day 21
+-------
+What is fishbone technique?
+different between verification and validation
+different between Static Dynamic
+different between QA and QC
+GLOBALIZATION TESTING and types
+
+Day 22-23
+----------
+1.REGRESSION TESTING OR RELEASE CANDIDATE TESTING
+Types:
+(a)Unit RT
+(b)Regional RT
+(c)Full Regression Testing
+What is the difference between re-testing and regression testing? (*****************)
+When to go for automation? (***************************)
+STLC (Software Test Life Cycle) and Stages 
+What is the difference between SDLC and STLC?
+
+Day 24
+-------
+TEST PLAN and different sections
+Hotfix
+
+Day 25
+----------
+01.Agile Module 
+02.What is Agile?
+Note: Types of agile methodology 
+Explain only 
+1.Scrum Model/Process
+
+2.XP (Extreme programming)
+3.Crystal clear
+4.Lean and Kanban
+5.FDD (Feature Driven Development) / TDD (Test Driven Dev)
+6.DSDM (Dynamic ss/w Dev Method)
+7.ASDM (Adaptive s/w Dev Method)
+
+scrum ceremonies all 4 Meetings
+Chicken
+Stort Point
+Burn-Down Chart
+Spill Over
+Story Board
+Product Backlog
+Sprint Backlog etc..
+
+                            ----------- By Sambit ------------
+
